@@ -39,6 +39,11 @@ FOUNDATION_EXPORT const unsigned char HDBaseUtilsVersionString[];
 //网速检测
 #import <HDBaseUtils/HDInternetSpeedMeasuring.h>
 
+//播放器
+#import <HDBaseUtils/HDPlayerView.h>
+
+
+//#import <HDBaseUtils/HDSLogTrack.h>
 #import <HDBaseUtils/HDSReportClient.h>
 
 
